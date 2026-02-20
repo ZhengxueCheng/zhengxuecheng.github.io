@@ -28,9 +28,12 @@ announcements:
 
 ---
 
-I am currently an assistant researcher at [MediaLab](https://medialab.sjtu.edu.cn/), in Shanghai Jiao Tong University. Before that, I received the B.E. degree from Shanghai Jiao Tong University, Shanghai, China in 2014 and the M.E. degrees from Waseda University, Kitakyushu, Japan and Shanghai Jiao Tong University in 2015 and 2017, respectively through a double-degree program. I received a PhD.degree at Waseda University, Tokyo, Japan in 2020 under the supervision of Prof. [Jiro Katto](https://www.katto.comm.waseda.ac.jp/). I also received the Research Fellowship for Young Scientists DC2 from Japan Society for the Promotion of Science (JSPS). From 2018 to 2019, I was a visiting intern at EPFL, Switzerland, working with Prof. [Touradj Ebrahimi](https://scholar.google.com/citations?user=jt-UsrcAAAAJ). After that I worked in Ant Group, Hangzhou, China, as an Algorithm Expert until April 2024. 
+I am currently an assistant researcher at [MediaLab](https://medialab.sjtu.edu.cn/), in Shanghai Jiao Tong University, working with Prof. [Wenjun Zhang](https://icisee.sjtu.edu.cn/jiaoshiml/zhangwenjun.html), Prof. [Li Song](https://icisee.sjtu.edu.cn/jiaoshiml/songli.html). Before that, I received the B.E. degree from Shanghai Jiao Tong University in 2014 and double M.E. degrees from Waseda University and Shanghai Jiao Tong University in 2015 and 2017, respectively. I received a PhD.degree at Waseda University in 2020 under the supervision of Prof. [Jiro Katto](https://www.katto.comm.waseda.ac.jp/). From 2018 to 2019, I was a visiting intern at EPFL, Switzerland, working with Prof. [Touradj Ebrahimi](https://scholar.google.com/citations?user=jt-UsrcAAAAJ). After that I worked in Ant Group, Hangzhou, China, as an Algorithm Expert until April 2024. 
 
-My research interests include deep learning-based multimodal data compression, image and video enhancement, and lightweight AI algorithm designs. I also received the Okawa Foundation Research Grant 2024, CVPR NTIRE 2025 Effficient Super Resolution Winner, VCIP 2024 Best Student Paper RunnerUp, VCIP 2025 Best Paper, PCS 2019 Silver Award for Grand Challenge. 
+My research interests include deep learning-based multimodal data compression, image and video enhancement, and lightweight AI algorithm designs. I also received the JSPS DC2, Okawa Foundation Research Grant 2024, CVPR NTIRE 2025 Effficient Super Resolution Winner, VCIP 2024 Best Student Paper RunnerUp, VCIP 2025 Best Paper, PCS 2019 Silver Award for Grand Challenge. 
+
+
+For prospective students interested in AI or data coding, feel free to contact me via [email](zxcheng@sjtu.edu.cn)!
 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
